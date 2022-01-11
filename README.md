@@ -9,7 +9,7 @@
 <p align="center">I love tinkering on the linux terminal. ❤️ vim. ❤️ tmux. My passion goes beyond coding.</p>
 <p align="center"><a href="mailto: tomxkay@pm.me">Hire me</a></p>
 
-- 💻 Currently working on **SmartPO <a href="https://medprocure.com/" target="blank">@MedProcure</a>**
+- 💻 Currently working as a **freelancer** 
 - 🤔 Learning **Python, Ethical hacking, Networking and VPN**
 - 💬 Ask me about **vim, tmux and the terminal**
 - 📟 Hit me up. I'm down to collaborate!
