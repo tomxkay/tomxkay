@@ -7,14 +7,14 @@
 <h3 align="center">Web Developer</h3>
 
 <p align="center">I love tinkering on the linux terminal. ❤️ vim. ❤️ tmux. My passion goes beyond coding.</p>
-<p align="center"><a href="https://www.asapweb.app" noreferrer noopener>Hire me</a></p>
+<p align="center"><a href="https://www.asapweb.app" target="_blank" rel="noreferrer noopener">Hire me</a></p>
 
-- 💻 Currently working @ <a href="https://www.asapweb.app/company" target="blank">**ASAP Web**</a>
+- 💻 Currently freelancing as <a href="https://www.asapweb.app/company" rel="noreferrer noopener" target="_blank">**ASAP Web**</a>
 - 🤔 Learning **Python, Ethical hacking, Networking and VPN**
 - 💬 Ask me about **vim, tmux and the terminal**
 - 📟 Hit me up. I'm down to collaborate!
-- 🏓 Ping me @ <a href="mailto:thomas@asapweb.app">**thomas@asapweb.app**</a>
-- 🔌 Connect w/ me <a href="https://www.linkedin.com/in/tomxkay/" target="blank">
+- 🏓 Ping me @ <a href="mailto:tomxkay@pm.me" rel="noreferrer noopener" target="_blank">**tomxkay@pm.me**</a>
+- 🔌 Connect w/ me <a href="https://www.linkedin.com/in/tomxkay/" rel="noreferrer noopener" target="_blank">
     LinkedIn
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" src="tomxkay" height="12" />
   </a>
